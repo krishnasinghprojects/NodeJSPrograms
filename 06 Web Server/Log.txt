@@ -1,0 +1,24 @@
+New Request Recieved
+Random Number : 0.07186298844553529
+Recieved At Route : /
+
+New Request Recieved
+Random Number : 0.5133072685851114
+Recieved At Route : /favicon.ico
+
+New Request Recieved
+Random Number : 0.6630925946986721
+Recieved At Route : /about
+
+New Request Recieved
+Random Number : 0.5287728290421423
+Recieved At Route : /favicon.ico
+
+New Request Recieved
+Random Number : 0.6113409485316996
+Recieved At Route : /krishna
+
+New Request Recieved
+Random Number : 0.8975924742652901
+Recieved At Route : /favicon.ico
+
