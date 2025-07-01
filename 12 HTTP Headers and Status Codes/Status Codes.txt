@@ -1,0 +1,19 @@
+HTTP response status codes indicates what is the situation of HTTP request.
+They are classified in five classes :
+
+1.Informational Responses - 100-199
+2.Successful Responses - 200-299
+3.Redirection Responses - 300-399
+4.Client Error Responses - 400-499
+5.Server Error Responses - 500-599
+
+Important Status Codes
+
+200 - OK : A Standard Response For A Successful Request.
+201 - Created : A Standard Response For A Successful Request And New Response Is Created.
+400 - Bad Request : A Error Response For A Missing Data.
+401 - Unauthorized : A Error Response For An Unauthorized Request.
+403 - Forbidden :  A Error Response For A Forbidden Request.
+404 - Not Found :  A Error Response For An Not Recognised URL i.e. If That Resource Doesn't Exist.
+500 - Internal Server Error : A Error Response For An Error From A Server.
+503 - Service Unavialable : A Error Response For An Unavialable Service.

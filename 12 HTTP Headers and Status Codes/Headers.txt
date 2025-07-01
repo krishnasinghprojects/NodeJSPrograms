@@ -1,0 +1,4 @@
+Headers-Information about the packet of data about the data like
+        request and response details, type, ip, etc.
+        We can also create custom headers and its a good practice
+        to use X when creating custom headers
