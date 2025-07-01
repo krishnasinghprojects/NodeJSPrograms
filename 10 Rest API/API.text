@@ -1,0 +1,6 @@
+It is a set of rules for client and server communication
+
+1. Works On Server Client Architecture i.e. it could change the response based on requirement.
+EXAMPLE - For a webpage it could send JSON to render as cards while for an mobile application it could send JSON as mobile elements.
+
+2. Always Follow All HTTP Methods

@@ -1,0 +1,5 @@
+GET - Whenever a data is requested from a server it is called a get Request.
+POST - Whenever a data is sent to a server to add in database.
+PUT - Whenever a file is uploaded into a server put request is done.
+PATCH - Whenever a pre-existing data is changed in database it is done by patch.
+DELETE - Whenever a data entry is deleted in a server it is called delete request.

@@ -1,0 +1,4 @@
+https:// - Protocol
+www.google.com - Domain Name
+/path - Path For Multiple Sections
+?userId=50 - Query Parameter
